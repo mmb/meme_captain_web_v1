@@ -1,0 +1,7 @@
+require 'meme_captain_web_v1/image_list'
+require 'meme_captain_web_v1/meme_data'
+require 'meme_captain_web_v1/norm_params'
+require 'meme_captain_web_v1/pretty_format'
+require 'meme_captain_web_v1/server'
+require 'meme_captain_web_v1/source_fetch_fail'
+require 'meme_captain_web_v1/upload'
